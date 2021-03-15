@@ -23,7 +23,7 @@ cynbit 中文简介
 其他语言
 ------------
 
-`English <https://synbit-en.readthedocs.io/en/latest/>`_
+`English <https://synbit.readthedocs.io/en/latest/>`_
 
 
 
