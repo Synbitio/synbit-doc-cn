@@ -1,8 +1,7 @@
 ﻿
 
-中文
+cynbit 中文简介
 =================================================
-
 
 .. toctree::
    :maxdepth: 2
@@ -11,17 +10,20 @@
    list2
    list3
 
-English
-=================================================
-.. toctree::
-   :maxdepth: 2
+有用的链接
+------------
 
-   list4
-   list5
-   list6
+#. https://synbit.io/
+#. https://www.hecochain.com/
+#. https://hecoinfo.com/
+#. https://metamask.io/
+#. https://token.im/
+#. https://etherscan.io/
 
+其他语言
+------------
 
-
+`English <https://synbit-en.readthedocs.io/en/latest/>`_
 
 
 
