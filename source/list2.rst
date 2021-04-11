@@ -1,11 +1,11 @@
-如何在SYNBIT抵押HT（暂时只支持HECO测试网络）
+如何在SYNBIT抵押HT
 ================================================
 
-1.打开Synbit网站www.synbit.io并点击左上角DEMO进入测试页面
+1.1.打开Synbit网站www.synbit.io并点击stake进入铸造页
 
 .. image:: 35.png
 
-2.在测试页面点击连接钱包
+2.在页面内点击连接钱包
 
 .. image:: 28.png
 
@@ -31,7 +31,6 @@
 .. image:: 34.png
 
 
-注：HCEO测试网络的HT获取请参阅我们发布的另一篇文章《How to get token in HECO test network》
 
 
 
